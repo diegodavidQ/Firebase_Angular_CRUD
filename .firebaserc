@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "fir-angular-di": {
+      "hosting": {
+        "firebaseCRUD": [
+          "fir-angular-di"
+        ]
+      }
+    }
+  }
+}
